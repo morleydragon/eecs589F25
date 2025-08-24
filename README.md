@@ -86,37 +86,37 @@ The latest reading list is [linked here](ReadingList.md).
 
 |#| Date      | Topic and Readings                       | Presenter|
 |--|-----------|----------------------------------------|---------| 
-|1 | Aug 26      | **Background:Internet philosophy**                 | Prof. Mao | 
-|2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
-|| Sep 2 |  Labor Day (holiday)       | | 
-|3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Prof Mao | 
-|4| Sep 9 |  AI/ML for networks          |Prof. Mao | 
-|5| Sep 11 | LLM for security          | Prof. Mao | 
-|6| Sep 16 |  ML at scale    | | 
-|7| Sep 18 |  Networking for AI/ML              | Prof. Mao | 
-|8| Sep 23 |  Network virtualization                   |  | 
-|9| Sep 25 | Mobile / Wireless networks     |   | 
-|10| Sep 30 | Mobile / Wireless networks                          |  | 
-|11| Oct 2 |  Network security / privacy                        |   | 
-|12| Oct 7 |   Network security / privacy  / blockchains     |  | 
-|13| Oct 9 |    Network security   |  | 
-|| Oct 14 |  Fall study break        |    | 
-|14| Oct 16 |   Scheduling data transfers                           |     | 
-|15| Oct 21 |  Network measurement                        |   | 
-|16| Oct 23 | Data center networking  |  |
-|17| Oct 28 |   Networking for Video games     |  | 
-|18| Oct 30 |  Data center networking, Neural WAN TE  |    | 
-|19| Nov 4 |   Network QoS, Wireless sensing    |  | 
-|20| Nov 6 |   Programming networks     |   | 
-|21| Nov 11 | **Project mid-semester update**             | | 
-|22| Nov 13 | **Project mid-semester update**              | | 
-|23| Nov 18 |  Cloud systems          |   | 
-|24| Nov 20 |  Network applications         |  | 
-|25| Nov 25 |  NO CLASS (Please work on your projects)      | N/A  | 
-|| Nov 25 |     Thanksgiving break         | |
-|26| Dec 2 |   Verification / validation, Traffic engineering     |  | 
-|27| Dec 4 |  Final project presentations    | | 
-|28| Dec 9 |  Final project presentations    | | 
+|1 | Aug 25      | **Background:Internet philosophy**                 | Prof. Mao | 
+|2| Aug 27 |  Review of the networking basics      |Prof. Mao | 
+|| Sep 1 |  Labor Day (holiday)       | | 
+|3| Sep 3 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Prof Mao | 
+|4| Sep 8 |  AI/ML for networks          |Prof. Mao | 
+|5| Sep 10 | LLM for security          | Prof. Mao | 
+|6| Sep 15 |  ML at scale    | | 
+|7| Sep 17 |  Networking for AI/ML              | Prof. Mao | 
+|8| Sep 22 |  Network virtualization                   |  | 
+|9| Sep 24 | Mobile / Wireless networks     |   | 
+|10| Sep 29 | Mobile / Wireless networks                          |  | 
+|11| Oct 1 |  Network security / privacy                        |   | 
+|12| Oct 6 |   Network security / privacy  / blockchains     |  | 
+|13| Oct 8 |    Network security   |  | 
+|| Oct 13 |  Fall study break        |    | 
+|14| Oct 15 |   Scheduling data transfers                           |     | 
+|15| Oct 20 |  Network measurement                        |   | 
+|16| Oct 22 | Data center networking  |  |
+|17| Oct 27 |   Networking for Video games     |  | 
+|18| Oct 29 |  Data center networking, Neural WAN TE  |    | 
+|19| Nov 3 |   Network QoS, Wireless sensing    |  | 
+|20| Nov 5 |   Programming networks     |   | 
+|21| Nov 10 | **Project mid-semester update**             | | 
+|22| Nov 12 | **Project mid-semester update**              | | 
+|23| Nov 17 |  Cloud systems          |   | 
+|24| Nov 19 |  Network applications         |  | 
+|25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
+|| Nov 26 |     Thanksgiving break         | |
+|26| Dec 1 |   Verification / validation, Traffic engineering     |  | 
+|27| Dec 3 |  Final project presentations    | | 
+|28| Dec 8 |  Final project presentations    | | 
 
 
 ## Grading
@@ -183,12 +183,12 @@ Surveys are not sufficient as projects; instead, each project must contain a sur
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 (These dates are tentative and will be confirmed via Canvas assignments.)
 
-* Turn in a 2-page draft proposal (including references) by **September 23**. Remember to include the names and Michigan email addresses of the group members. 
+* Turn in a 2-page draft proposal (including references) by **September 22**. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before September 30.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of Nov 11.
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on November 4**.
 * Each group must present their final results during a presentation starting on December 4.
-* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 13.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 12.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 
 #### Acknowledgement
