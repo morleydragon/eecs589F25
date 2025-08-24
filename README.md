@@ -78,7 +78,7 @@ I also recommend supplemental reading of well recognized papers from [SIGCOMM Te
 ## Proposed Schedule and Reading List
 Papers to be selected from but not limited to:
 * [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/program/)
-* [MobiSys'25](https://www.sigmobile.org/mobisys/2025/program.html)
+* [MobiSys'25](https://www.sigmobile.org/mobisys/2025/program/)
 * [NSDI'25](https://www.usenix.org/conference/nsdi25/technical-sessions)
 * [Usenix Security'25](https://www.usenix.org/conference/usenixsecurity25/technical-sessions)
 
