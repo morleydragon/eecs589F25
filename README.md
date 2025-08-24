@@ -102,8 +102,8 @@ The latest reading list is [linked here](ReadingList.md).
 |13| Oct 9 |    Network security   |  | 
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |   Scheduling data transfers                           |     | 
-|15| Oct 21 |  Network measurement                        |  Yijia Gao | 
-|16| Oct 23 | Data center networking  | Jiyu Chen |
+|15| Oct 21 |  Network measurement                        |   | 
+|16| Oct 23 | Data center networking  |  |
 |17| Oct 28 |   Networking for Video games     |  | 
 |18| Oct 30 |  Data center networking, Neural WAN TE  |    | 
 |19| Nov 4 |   Network QoS, Wireless sensing    |  | 
