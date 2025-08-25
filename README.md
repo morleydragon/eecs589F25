@@ -109,10 +109,10 @@ The latest reading list is [linked here](ReadingList.md).
 |16| Oct 22 | Data center networking  |  |
 |17| Oct 27 |   Networking for Video games     |  | 
 |18| Oct 29 |  Data center networking, Neural WAN TE  |    | 
-|19| Nov 3 |   Network QoS, Wireless sensing    |  | 
-|20| Nov 5 |   Programming networks     |   | 
-|21| Nov 10 | **Project mid-semester update**             | | 
-|22| Nov 12 | **Project mid-semester update**              | | 
+|19| Nov 3 |    **Project mid-semester update**      |  | 
+|20| Nov 5 |   **Project mid-semester update**    |   | 
+|21| Nov 10 | Network QoS, Wireless sensing           | | 
+|22| Nov 12 |  Programming networks              | | 
 |23| Nov 17 |  Cloud systems          |   | 
 |24| Nov 19 |  Network applications         |  | 
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
@@ -193,7 +193,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Turn in a 2-page draft proposal (including references) by **September 22**. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before September 30.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of Nov 11.
-* **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on November 4**.
+* **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on November 3**.
 * Each group must present their final results during a presentation starting on December 4.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 12.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
