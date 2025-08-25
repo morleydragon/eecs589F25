@@ -72,8 +72,11 @@ This course has NO textbook. The class will select and discuss recent papers fro
 in order to understand trends in networking research. 
 Instructors will select papers based on the interests of the class
 focusing primarily on the top networking and systems conferences, e.g., SIGCOMM, Mobicom, MobiSys, NSDI, Usenix Security, IMC, and lead discussions.
+Some good references:
+* [Machine learning systems](https://www.mlsysbook.ai/)
+* [Computer Networks: A Systems Approach, by Larry Peterson and Bruce Davie] (https://book.systemsapproach.org/)
 
-I also recommend supplemental reading of well recognized papers from [SIGCOMM Test-of-Time papers](https://www.sigcomm.org/awards/test-of-time-paper-award).
+I also recommend supplemental reading of well recognized papers from [SIGCOMM Test-of-Time papers](https://www.sigcomm.org/awards/acm-sigcomm-test-of-time-paper-award).
 
 ## Proposed Schedule and Reading List
 Papers to be selected from but not limited to:
