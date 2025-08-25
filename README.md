@@ -127,6 +127,9 @@ Students who satisfactorily complete all assigned work will receive a B+ or bett
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
+### Policy on ChatGPT and generative AI
+ChatGPT and generative AI tools are in general not useful for this course assignments (reviews and project reports). The default is that such use is disallowed unless with the permission of the course staff. Any such use must be appropriately acknowledged and cited. It is each student’s responsibility to assess the validity and applicability of any GAI output that is submitted; you bear the final responsibility. Violations of this policy will be considered academic misconduct. 
+
 ### Groups
 All activities of this course will be performed in **groups of 2-3 students**.
 Please use Piazza to form groups.
