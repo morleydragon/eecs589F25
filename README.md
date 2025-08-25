@@ -10,7 +10,7 @@ EECS589: Advanced Computer Networks (Fall 2025)
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Z. Morley Mao](http://eecs.umich.edu/~zmao) (zmao) | Faculty | 4629 BBB. By appointment and after each lecture |
-| [Can Carlak](https://luke20000429.github.io/) (ccarlak) | GSI | BBB Learning Center. TBD or by appointment |
+| [Can Carlak](https://cancarlak.github.io/) (ccarlak) | GSI | BBB Learning Center. TBD or by appointment |
 
 ### Piazza
 
@@ -90,10 +90,10 @@ The latest reading list is [linked here](ReadingList.md).
 |2| Aug 27 |  Review of the networking basics      |Prof. Mao | 
 || Sep 1 |  Labor Day (holiday)       | | 
 |3| Sep 3 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Prof Mao | 
-|4| Sep 8 |  AI/ML for networks          |Prof. Mao | 
-|5| Sep 10 | LLM for security          | Prof. Mao | 
-|6| Sep 15 |  ML at scale    | | 
-|7| Sep 17 |  Networking for AI/ML              | Prof. Mao | 
+|4| Sep 8 |  (Project pitch) AI/ML for networks          |Prof. Mao and students| 
+|5| Sep 10 | (Project pitch) LLM for security          | Prof. Mao and students | 
+|6| Sep 15 |  (Project pitch) ML at scale    | | 
+|7| Sep 17 |  Networking for AI/ML              | Prof. Mao and students | 
 |8| Sep 22 |  Network virtualization                   |  | 
 |9| Sep 24 | Mobile / Wireless networks     |   | 
 |10| Sep 29 | Mobile / Wireless networks                          |  | 
@@ -186,6 +186,7 @@ Surveys are not sufficient as projects; instead, each project must contain a sur
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 (These dates are tentative and will be confirmed via Canvas assignments.)
 
+* Give 5 min project pitch by Sep 10's lectures: present the problem, challenges, initial idea for the technical approach.
 * Turn in a 2-page draft proposal (including references) by **September 22**. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before September 30.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of Nov 11.
