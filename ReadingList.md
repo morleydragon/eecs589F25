@@ -1,5 +1,5 @@
-# Reading list for EECS 589 Fall 2024: Advanced Computer Networks
-EECS589: Advanced Computer Networks (Fall 2024)
+# Reading list for EECS 589 Fall 2025: Advanced Computer Networks
+EECS589: Advanced Computer Networks (Fall 2025)
 
 ### Background: Internet philosophy
 * [Internet history](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
