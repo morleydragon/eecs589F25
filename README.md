@@ -93,21 +93,21 @@ The latest reading list is [linked here](ReadingList.md).
 |2| Aug 27 |  Review of the networking basics      |Prof. Mao | 
 || Sep 1 |  Labor Day (holiday)       | | 
 |3| Sep 3 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Prof Mao | 
-|4| Sep 8 |  (Project pitch) AI/ML for networks          |Prof. Mao and students| 
+|4| Sep 8 |   AI/ML for networks          |Prof. Mao | 
 |5| Sep 10 | (Project pitch) LLM for security          | Prof. Mao and students | 
 |6| Sep 15 |  (Project pitch) ML at scale    | | 
 |7| Sep 17 |  Networking for AI/ML              | Prof. Mao and students | 
-|8| Sep 22 |  Network virtualization                   |  | 
+|8| Sep 22 |  Network virtualization  |  | 
 |9| Sep 24 | Mobile / Wireless networks     |   | 
-|10| Sep 29 | Mobile / Wireless networks                          |  | 
-|11| Oct 1 |  Network security / privacy                        |   | 
+|10| Sep 29 |Multimedia,  Mobile / Wireless networks                          |  | 
+|11| Oct 1 |  Network security: censorship                        |   | 
 |12| Oct 6 |   Network security / privacy  / blockchains     |  | 
-|13| Oct 8 |    Network security   |  | 
+|13| Oct 8 |    Network security (IDS)  |  | 
 || Oct 13 |  Fall study break        |    | 
-|14| Oct 15 |   Scheduling data transfers                           |     | 
-|15| Oct 20 |  Network measurement                        |   | 
+|14| Oct 15 |   Scheduling data transfers, NFV, SDN                   |     | 
+|15| Oct 20 |  Federated learning, Network measurement                        |   | 
 |16| Oct 22 | Data center networking  |  |
-|17| Oct 27 |   Networking for Video games     |  | 
+|17| Oct 27 |   CPS (safety) Networking for Video games     |  | 
 |18| Oct 29 |  Data center networking, Neural WAN TE  |    | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
 |20| Nov 5 |   **Project mid-semester update**    |   | 
