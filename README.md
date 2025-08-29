@@ -105,7 +105,7 @@ The latest reading list is [linked here](ReadingList.md).
 |13| Oct 8 |    Network security (IDS)  |  | 
 || Oct 13 |  Fall study break        |    | 
 |14| Oct 15 |   Scheduling data transfers, NFV, SDN                   |     | 
-|15| Oct 20 |  Federated learning, Network measurement                        |   | 
+|15| Oct 20 |  Federated/distributed learning, Network measurement                        |   | 
 |16| Oct 22 | Data center networking  |  |
 |17| Oct 27 |   CPS (safety) Networking for Video games     |  | 
 |18| Oct 29 |  Data center networking, Neural WAN TE  |    | 
@@ -114,7 +114,7 @@ The latest reading list is [linked here](ReadingList.md).
 |21| Nov 10 | Network QoS, Wireless sensing           | | 
 |22| Nov 12 |  Programming networks              | | 
 |23| Nov 17 |  Cloud systems          |   | 
-|24| Nov 19 |  Network applications         |  | 
+|24| Nov 19 |  Network / enterprise applications         |  | 
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 26 |     Thanksgiving break         | |
 |26| Dec 1 |   Verification / validation, Traffic engineering     |  | 
