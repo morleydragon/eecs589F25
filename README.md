@@ -92,10 +92,10 @@ The latest reading list is [linked here](ReadingList.md).
 |#| Date      | Topic and Readings                       | Presenter|
 |--|-----------|----------------------------------------|---------| 
 |1 | Aug 25      | **Background:Internet philosophy**                 | Prof. Mao | 
-|2| Aug 27 |  Review of the networking basics      |Prof. Mao | 
+|2| Aug 27 |  Review of the networking basics and SDN      |Prof. Mao | 
 || Sep 1 |  Labor Day (holiday)       | | 
-|3| Sep 3 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Prof Mao | 
-|4| Sep 8 |   AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))            |Prof. Mao | 
+|3| Sep 3 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))   |Prof Mao | 
+|4| Sep 8 |  Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))           |Prof. Mao | 
 |5| Sep 10 | (Project pitch) LLM for security   ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))            | Prof. Mao and students | 
 |6| Sep 15 |  (Project pitch) ML at scale    | | 
 |7| Sep 17 |  Networking for AI/ML              | Prof. Mao and students | 
