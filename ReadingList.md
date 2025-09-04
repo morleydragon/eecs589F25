@@ -37,6 +37,13 @@ SIGCOMM 2024, [Talk](https://www.youtube.com/watch?v=y-SFpf8hnYU).
 SIGCOMM 2024, [Talk](https://www.youtube.com/watch?v=s7bscp1NKY8).
 * [Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE](https://dl.acm.org/doi/pdf/10.1145/3651890.3672269), SIGCOMM 2024, [Talk](https://www.youtube.com/watch?v=OZxBAiPCrTY).
 
+### Video and Cloud Gaming
+* [Mowgli: Passively Learned Rate Control for Real-Time Video](https://www.usenix.org/conference/nsdi25/presentation/agarwal), NSDI 2025
+* [Dissecting and Streamlining the Interactive Loop of Mobile Cloud Gaming](https://www.usenix.org/conference/nsdi25/presentation/wang-weijun), NSDI 2025
+* [Tooth: Toward Optimal Balance of Video QoE and Redundancy Cost by Fine-Grained FEC in Cloud Gaming Streaming](https://www.usenix.org/conference/nsdi25/presentation/an), NSDI 2025
+* [AsTree: An Audio Subscription Architecture Enabling Massive-Scale Multi-Party Conferencing](https://www.usenix.org/conference/nsdi25/presentation/meng), NSDI 2025
+
+
 ### Network security / privacy 
 * [SmartCookie: Blocking Large-Scale SYN Floods with a Split-Proxy Defense on Programmable Data Planes](https://www.usenix.org/conference/usenixsecurity24/presentation/yoo), Usenix Security 2024.
 * [Zero-setup Intermediate-rate Communication Guarantees in a Global Internet](https://www.usenix.org/conference/usenixsecurity24/presentation/wyss), Usenix Security 2024.
