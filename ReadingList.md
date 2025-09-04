@@ -45,6 +45,7 @@ SIGCOMM 2024, [Talk](https://www.youtube.com/watch?v=s7bscp1NKY8).
 
 
 ### Network security / privacy 
+* [Lemon: Network-Wide DDoS Detection with Routing-Oblivious Per-Flow Measurement](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao], Usenix Security 2025
 * [SmartCookie: Blocking Large-Scale SYN Floods with a Split-Proxy Defense on Programmable Data Planes](https://www.usenix.org/conference/usenixsecurity24/presentation/yoo), Usenix Security 2024.
 * [Zero-setup Intermediate-rate Communication Guarantees in a Global Internet](https://www.usenix.org/conference/usenixsecurity24/presentation/wyss), Usenix Security 2024.
 * [CalcuLatency: Leveraging Cross-Layer Network Latency Measurements to Detect Proxy-Enabled Abuse](https://www.usenix.org/conference/usenixsecurity24/presentation/ramesh), Usenix Security 2024.
