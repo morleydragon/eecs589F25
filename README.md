@@ -104,22 +104,22 @@ The latest reading list is [linked here](ReadingList.md).
 |10| Sep 29 |Multimedia,  Mobile / Wireless networks  ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))                        |  | 
 |11| Oct 1 |  Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)         |   | 
 |12| Oct 6 |   Network security / privacy  / blockchains [VPNChecker](https://dl.acm.org/doi/10.1145/3589334.3645552))     |  | 
-|13| Oct 8 |    Network security (IDS)  |  | 
+|13| Oct 8 |    Network security (IDS) [Lemon](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao) |  | 
 || Oct 13 |  Fall study break        |    | 
-|14| Oct 15 |   Scheduling data transfers, NFV, SDN                   |     | 
-|15| Oct 20 |  Federated/distributed learning, Network measurement                        |   | 
+|14| Oct 15 |   Scheduling data transfers, NFV, SDN   ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))                  |     | 
+|15| Oct 20 |  Federated/distributed learning, Network measurement    [Censys[(https://zakird.com/papers/censys-2025.pdf)  |   | 
 |16| Oct 22 | Data center networking  |  |
 |17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   |  | 
-|18| Oct 29 |  Data center networking, Neural WAN TE  |    | 
+|18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) |    | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
 |20| Nov 5 |   **Project mid-semester update**    |   | 
-|21| Nov 10 | Network QoS, Wireless sensing           | | 
-|22| Nov 12 |  Programming networks              | | 
-|23| Nov 17 |  Cloud systems          |   | 
-|24| Nov 19 |  Network / enterprise applications         |  | 
+|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260)), Wireless sensing [Radarize](https://arxiv.org/abs/2311.11260))         | | 
+|22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))            | | 
+|23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       |   | 
+|24| Nov 19 |  Network / enterprise applications          |  | 
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 26 |     Thanksgiving break         | |
-|26| Dec 1 |   Verification / validation, Traffic engineering     |  | 
+|26| Dec 1 |   Verification / validation [Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266), Traffic engineering ([MegaTE](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf))   |  | 
 |27| Dec 3 |  Final project presentations    | | 
 |28| Dec 8 |  Final project presentations    | | 
 
