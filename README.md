@@ -108,7 +108,7 @@ The latest reading list is [linked here](ReadingList.md).
 || Oct 13 |  Fall study break        |    | 
 |14| Oct 15 |   Scheduling data transfers, NFV, SDN   ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))                  |     | 
 |15| Oct 20 |  Federated/distributed learning, Network measurement    [Censys[(https://zakird.com/papers/censys-2025.pdf)  |   | 
-|16| Oct 22 | Data center networking  |  |
+|16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) |  |
 |17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   |  | 
 |18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) |    | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
