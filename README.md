@@ -10,7 +10,7 @@ EECS589: Advanced Computer Networks (Fall 2025)
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Z. Morley Mao](http://eecs.umich.edu/~zmao) (zmao) | Faculty | 4629 BBB. By appointment and after each lecture |
-| [Can Carlak](https://cancarlak.github.io/) (ccarlak) | GSI | BBB Learning Center. TBD or by appointment |
+| [Can Carlak](https://cancarlak.github.io/) (ccarlak) | GSI | BBB Atrium. Tuesdays 10:00am - 12:00pm and by appointment |
 
 ### Piazza
 
