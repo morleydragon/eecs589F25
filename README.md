@@ -90,36 +90,36 @@ Papers to be selected from but not limited to:
 The latest reading list is [linked here](ReadingList.md).
 
 |#| Date      | Topic and Readings                       | Presenter|
-|--|-----------|----------------------------------------|---------| 
+|--|-----------|--------------------------------|---------| 
 |1 | Aug 25      | **Background:Internet philosophy**                 | Prof. Mao | 
 |2| Aug 27 |  Review of the networking basics and SDN      |Prof. Mao | 
 || Sep 1 |  Labor Day (holiday)       | | 
 |3| Sep 3 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))   |Prof Mao | 
-|4| Sep 8 |  Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))           | | 
-|5| Sep 10 | (Project pitch) LLM for security   ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))            |  | 
-|6| Sep 15 |  (Project pitch) ML at scale ([QuickUpdate](https://www.usenix.org/conference/nsdi24/presentation/matam))    | | 
-|7| Sep 17 |  Networking for AI/ML  ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))               | Prof. Mao and students | 
-|8| Sep 22 |  Network virtualization ([NetEdit](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227))   |  | 
-|9| Sep 24 | Mobile / Wireless networks   ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))   |   | 
-|10| Sep 29 |Multimedia,  Mobile / Wireless networks  ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))                        |  | 
-|11| Oct 1 |  Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)         |   | 
-|12| Oct 6 |   Network security / privacy  / blockchains [VPNChecker](https://dl.acm.org/doi/10.1145/3589334.3645552))     |  | 
-|13| Oct 8 |    Network security (IDS) [Lemon](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao) |  | 
-|| Oct 13 |  Fall study break        |    | 
-|14| Oct 15 |   Scheduling data transfers, NFV, SDN   ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))                  |     | 
-|15| Oct 20 |  Federated/distributed learning, Network measurement    [Censys[(https://zakird.com/papers/censys-2025.pdf)  |   | 
-|16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) |  |
-|17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   |  | 
-|18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) |    | 
+|4| Sep 8 |  Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))           | Prof Mao  | 
+|5| Sep 10 | (Project pitch) LLM for security   ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))            | Reagan(mcregan@) | 
+|6| Sep 15 |  (Project pitch) ML at scale ([QuickUpdate](https://www.usenix.org/conference/nsdi24/presentation/matam))    | Hao(haotiang@) | 
+|7| Sep 17 |  Networking for AI/ML  ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))               | Una(hei@) | 
+|8| Sep 22 |  Network virtualization ([NetEdit](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227))   | Richa(richapri@)  | 
+|9| Sep 24 | Mobile / Wireless networks ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))| Michael(mmoffatt@)| 
+|10| Sep 29 | ML at Scale ([SuperServe](https://www.usenix.org/conference/nsdi25/presentation/khare))                       | Zhongwei(xzw@) | 
+|11| Oct 1 |  Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)   | Shresth(shresth@)  | 
+|12| Oct 6 |   Network security / privacy  / blockchains [VPNChecker](https://dl.acm.org/doi/10.1145/3589334.3645552))     | Rishi((rishiral@) | 
+|13| Oct 8 |    Network security (IDS) [Lemon](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao) | Prof Mao  | 
+|| Oct 13 |  Fall study break        | N/A   | 
+|14| Oct 15 |   Scheduling data transfers, NFV, SDN   ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))     | Prof Mao   | 
+|15| Oct 20 |  Federated/distributed learning, Network measurement   ([Yarrp](https://dl.acm.org/doi/10.1145/2987443.2987479)), Censys[(https://zakird.com/papers/censys-2025.pdf)  | Shabbir (shabbirx@)  | 
+|16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) | Yash(ysinha@) |
+|17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   | Ethan(ethansun@) | 
+|18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
 |20| Nov 5 |   **Project mid-semester update**    |   | 
-|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260)), Wireless sensing [Radarize](https://arxiv.org/abs/2311.11260))         | | 
-|22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))            | | 
-|23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       |   | 
-|24| Nov 19 |  Network / enterprise applications, Infra for ML [AutoCCL](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin)         |  | 
+|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Hanning(lhanning@)| 
+|22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))   | Mythri(mythris@)| 
+|23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       | Yuchen(yuchenxr@)
+|24| Nov 19 |  Network / enterprise applications, Infra for ML [AutoCCL](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin)    | Shin(shinlee@) | 
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 26 |     Thanksgiving break         | |
-|26| Dec 1 |   Verification / validation [Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266), Traffic engineering ([MegaTE](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf))   |  | 
+|26| Dec 1 |   Verification / validation [Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266), Traffic engineering ([MegaTE](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf))   | Rohan(rjsingh@) | 
 |27| Dec 3 |  Final project presentations    | | 
 |28| Dec 8 |  Final project presentations    | | 
 
