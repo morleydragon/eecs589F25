@@ -99,10 +99,10 @@ The latest reading list is [linked here](ReadingList.md).
 |5| Sep 10 | (Project pitch) LLM for security   ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))            | Reagan(mcregan@) | 
 |6| Sep 15 |  (Project pitch) ML at scale ([QuickUpdate](https://www.usenix.org/conference/nsdi24/presentation/matam))    | Hao(haotiang@) | 
 |7| Sep 17 |  Networking for AI/ML  ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))               | Una(hei@) | 
-|8| Sep 22 |  Network virtualization ([NetEdit](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227))   | Richa(richapri@)  | 
+|8| Sep 22 |   Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)   | Richa(richapri@)  | 
 |9| Sep 24 | Mobile / Wireless networks ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))| Michael(mmoffatt@)| 
 |10| Sep 29 | ML at Scale ([SuperServe](https://www.usenix.org/conference/nsdi25/presentation/khare))                       | Zhongwei(xzw@) | 
-|11| Oct 1 |  Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)   | Shresth(shresth@)  | 
+|11| Oct 1 | Network virtualization ([NetEdit](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227))   | Shresth(shresth@)  | 
 |12| Oct 6 |   Network security / privacy  / blockchains [VPNChecker](https://dl.acm.org/doi/10.1145/3589334.3645552))     | Rishi((rishiral@) | 
 |13| Oct 8 |    Network security (IDS) [Lemon](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao) | Prof Mao  | 
 || Oct 13 |  Fall study break        | N/A   | 
