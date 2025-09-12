@@ -96,7 +96,7 @@ The latest reading list is [linked here](ReadingList.md).
 || Sep 1 |  Labor Day (holiday)       | | 
 |3| Sep 3 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))   |Prof Mao | 
 |4| Sep 8 |  Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))           | Prof Mao  | 
-|5| Sep 10 | (Project pitch) Network QoS ([Aequitas](https://dl.acm.org/doi/10.1145/3544216.3544271), [NSDI2025](https://www.usenix.org/system/files/nsdi25-buckley.pdf)         | Prof. Mao | 
+|5| Sep 10 | (Project pitch) Network QoS ([Aequitas](https://dl.acm.org/doi/10.1145/3544216.3544271), [NSDI2025](https://www.usenix.org/system/files/nsdi25-buckley.pdf))        | Prof. Mao | 
 |6| Sep 15 |  (Project pitch) LLM for security   ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf)),  ML at scale ([QuickUpdate](https://www.usenix.org/conference/nsdi24/presentation/matam))    | Reagan(mcregan@) and Hao(haotiang@) | 
 |7| Sep 17 |  Networking for AI/ML  ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))               | Una(hei@) | 
 |8| Sep 22 |   Network security: censorship  [GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi)   | Richa(richapri@)  | 
