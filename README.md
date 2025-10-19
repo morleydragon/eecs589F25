@@ -107,7 +107,7 @@ The latest reading list is [linked here](ReadingList.md).
 |13| Oct 8 |    Network security (IDS) [Lemon](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao) | Prof Mao  | 
 || Oct 13 |  Fall study break        | N/A   | 
 |14| Oct 15 |   Scheduling data transfers, NFV, SDN   ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))     | Prof Mao   | 
-|15| Oct 20 |  Federated/distributed learning, Network measurement   ([Yarrp](https://dl.acm.org/doi/10.1145/2987443.2987479)), Optional: [Censys](https://zakird.com/papers/censys-2025.pdf)  | Shabbir (shabbirx@)  | 
+|15| Oct 20 |  Federated/distributed learning, Network measurement   ([Yarrp](https://dl.acm.org/doi/10.1145/2987443.2987479)), **Optional**:[Censys](https://zakird.com/papers/censys-2025.pdf)  | Shabbir (shabbirx@)  | 
 |16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) | Yash(ysinha@) |
 |17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   | Ethan(ethansun@) | 
 |18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
