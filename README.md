@@ -113,10 +113,10 @@ The latest reading list is [linked here](ReadingList.md).
 |18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
 |20| Nov 5 |   **Project mid-semester update**    |   | 
-|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Hanning(lhanning@)| 
+|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Prof. Mao| 
 |22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))   | Mythri(mythris@)| 
 |23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       | Yuchen(yuchenxr@)
-|24| Nov 19 |  Network / enterprise applications, Infra for ML [AutoCCL](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin)    | Shin(shinlee@) | 
+|24| Nov 19 |  Network / enterprise applications, Infra for ML [AutoCCL](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin)    | Prof. Mao | 
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 26 |     Thanksgiving break         | |
 |26| Dec 1 |   Verification / validation [Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266), Traffic engineering ([MegaTE](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf))   | Rohan(rjsingh@) | 
