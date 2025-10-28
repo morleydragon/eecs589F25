@@ -110,7 +110,7 @@ The latest reading list is [linked here](ReadingList.md).
 |15| Oct 20 |  Federated/distributed learning, Network measurement   ([Yarrp](https://dl.acm.org/doi/10.1145/2987443.2987479)), **Optional**:[Censys](https://zakird.com/papers/censys-2025.pdf)  | Shabbir (shabbirx@)  | 
 |16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) | Yash(ysinha@) |
 |17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   | Ethan(ethansun@) | 
-|18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
+|18| Oct 29 |  Data center networking, ([AlibabStellar](https://dl.acm.org/doi/pdf/10.1145/3718958.3750539)), **Optional**: Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
 |19| Nov 3 |    **Project mid-semester update**      |  | 
 |20| Nov 5 |   **Project mid-semester update**    |   | 
 |21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Prof. Mao| 
