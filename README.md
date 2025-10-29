@@ -111,8 +111,8 @@ The latest reading list is [linked here](ReadingList.md).
 |16| Oct 22 | Data center networking [Hotspot](https://www.usenix.org/conference/nsdi25/presentation/bazzaz) | Yash(ysinha@) |
 |17| Oct 27 |   CPS (safety),  Networking for Video games  ([Tooth](https://www.usenix.org/conference/nsdi25/presentation/an))   | Ethan(ethansun@) | 
 |18| Oct 29 |  Data center networking, ([AlibabStellar](https://github.com/morleydragon/eecs589F25/blob/main/Papers/AlibabaStellar.pdf)), **Optional**: Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
-|19| Nov 3 |    **Project mid-semester update**      |  | 
-|20| Nov 5 |   **Project mid-semester update**    |   | 
+|19| Nov 3 |    **Project mid-semester update** Projects: Network-Aware Orchestration for AI-Assisted Rural Diagnostics, Compression for Large-scale GPU Data Analytics, Improved QUIC Multipath Scheduler|  | 
+|20| Nov 5 |   **Project mid-semester update**  Projects: ISP Project, Cloud VLM for AV control, Distillation for Cross Region Inference  |   | 
 |21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Prof. Mao| 
 |22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))   | Mythri(mythris@)| 
 |23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       | Yuchen(yuchenxr@)
