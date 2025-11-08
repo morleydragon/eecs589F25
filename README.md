@@ -113,7 +113,7 @@ The latest reading list is [linked here](ReadingList.md).
 |18| Oct 29 |  Data center networking, ([AlibabStellar](https://github.com/morleydragon/eecs589F25/blob/main/Papers/AlibabaStellar.pdf)), **Optional**: Neural WAN TE [DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) | Siyuan(dougdong@)   | 
 |19| Nov 3 |    **Project mid-semester update** Projects: (1) Network-Aware Orchestration for AI-Assisted Rural Diagnostics, (2) Compression for Large-scale GPU Data Analytics, (3) ISP Project|  | 
 |20| Nov 5 |   **Project mid-semester update**  Projects: (4) Improved QUIC Multipath Scheduler, (5) Cloud VLM for AV control, (6) Distillation for Cross Region Inference  |   | 
-|21| Nov 10 | Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))| Prof. Mao| 
+|21| Nov 10 | Network QoS ([TRAINCHECK](https://web.eecs.umich.edu/~ryanph/paper/traincheck-osdi25-preprint.pdf))| Prof. Mao| 
 |22| Nov 12 |  Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))   | Mythri(mythris@)| 
 |23| Nov 17 |  Cloud systems   ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))       | Yuchen(yuchenxr@)
 |24| Nov 19 |  Network / enterprise applications, Infra for ML [AutoCCL](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin)    | Prof. Mao | 
