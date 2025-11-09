@@ -120,8 +120,8 @@ The latest reading list is [linked here](ReadingList.md).
 |25| Nov 24 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 26 |     Thanksgiving break         | |
 |26| Dec 1 |   Verification / validation [Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266), Traffic engineering ([MegaTE](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf))   | Rohan(rjsingh@) | 
-|27| Dec 3 |  ***Final project presentations*** Projects: (4) Improved QUIC Multipath Scheduler, (5) Cloud VLM for AV control, (6) Distillation for Cross Region Inference   | | 
-|28| Dec 8 |  ***Final project presentations***  Projects: (1) Network-Aware Orchestration for AI-Assisted Rural Diagnostics, (2) Compression for Large-scale GPU Data Analytics, (3) ISP Project | | 
+|27| Dec 3 | NO CLASS (Please work on your projects)   | N/A  | 
+|28| Dec 8 |  ***Final project presentations***  Projects:  (4) Improved QUIC Multipath Scheduler, (5) Cloud VLM for AV control, (6) Distillation for Cross Region Inference (1) Network-Aware Orchestration for AI-Assisted Rural Diagnostics, (2) Compression for Large-scale GPU Data Analytics, (3) ISP Project | | 
 
 
 ## Grading
